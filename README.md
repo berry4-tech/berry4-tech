@@ -1,6 +1,6 @@
 # Hi, I'm Sriya 👋
 
-MS Information Systems student at Northeastern University. I build across full-stack, ML, and AI product surfaces. Working toward Product Management — I care about the "why" behind a feature as much as the "how," and I can build the thing myself to test that why.
+MS Information Systems student at Northeastern University. I build across full-stack, ML, and AI product surfaces. Working toward Product Management, I care about the "why" behind a feature as much as the "how," and I can build the thing myself to test that why.
 
 ---
 
