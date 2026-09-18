@@ -1,6 +1,6 @@
 # Hi, I'm Sriya 👋
 
-Graduate student at **Northeastern University (MS Information Systems)** with a background spanning software engineering, analyst, and consulting roles. I'm working toward Product Management — which means I care about the "why" behind a feature as much as the "how," and I can build the thing myself to test that why.
+Graduate student at **Northeastern University (MS Information Systems)** with a background spanning software engineering, analyst, and consulting roles. I'm working towards Product Management which means I care about the "why" behind a feature as much as the "how," and I can build the thing myself to test that why.
 
 ---
 
