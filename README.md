@@ -77,3 +77,5 @@ Building an AI-powered caregiver/medication assistant as a semester-long team pr
 Open to Product Manager roles and conversations about AI products, data-informed decisions, or anything above.
 
 [LinkedIn](https://www.linkedin.com/in/sriya-kv/)
+
+![Profile views](https://komarev.com/ghpvc/?username=berry4-tech&label=Profile%20views&color=6f42c1&style=flat)
