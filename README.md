@@ -1,4 +1,4 @@
-# Hi, I'm Sriya 👋
+# Hi, I'm Sriya 🌸
 
 I build across full-stack, ML, and AI product surfaces. I care about the "why" behind a feature as much as the "how," and I can build the thing myself to test that why.
 
