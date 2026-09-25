@@ -74,7 +74,7 @@ Building an AI-powered caregiver/medication assistant as a semester-long team pr
 
 ## Let's Connect
 
-Open to Product Manager roles and conversations about AI products, data-informed decisions, or anything above.
+Open to Software Engineer, Product Manager roles and conversations about AI products, data-informed decisions, or anything above.
 
 [LinkedIn](https://www.linkedin.com/in/sriya-kv/)
 
