@@ -1,27 +1,48 @@
 # Hi, I'm Sriya 👋
 
-MS Information Systems student at Northeastern University. I build across full-stack, ML, and AI product surfaces. I care about the "why" behind a feature as much as the "how," and I can build the thing myself to test that why.
+I build across full-stack, ML, and AI product surfaces. I care about the "why" behind a feature as much as the "how," and I can build the thing myself to test that why.
+
+Currently doing my MS in Computer Software Engineering at Northeastern University, concentrating in Information Systems.
+
+🌐 [Portfolio](https://sriya-v-kamarsu.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/sriya-kv/) · ✉️ kamarsu.v@northeastern.edu
 
 ---
 
-### Things I've built
-
-- **LabInsight AI** — Full-stack AI healthcare app to analyze lab reports, get health insights, and connect with doctors. [Code](https://github.com/berry4-tech/LabInsightsAI)
-- **Orbital Threat Assessment** — ML pipeline classifying hazardous asteroids from NASA JPL data, with SMOTE and stratified CV to handle severe class imbalance. [Code](https://github.com/berry4-tech/Orbital_Threat_Assessment)
-- **Lost & Found Ecosystem** — Multi-enterprise Java app connecting Boston universities, MBTA, and airports for lost & found, with trust-score fraud detection. [Code](https://github.com/berry4-tech/GreaterBoston_LostandFound_Ecosystem)
-
----
-
-### Tech I work with
+## Tech I work with
 
 **Languages**
-![Languages](https://skillicons.dev/icons?i=java,python,js,ts,cpp&perline=8)
 
-**Frameworks & Libraries**
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,flask&perline=8)
+![Languages](https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&perline=8)
 
-**Databases & Tools**
-![Databases & Tools](https://skillicons.dev/icons?i=mongodb,git,github&perline=8)
+MATLAB · SQL
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite&perline=8)
+
+Adobe Experience Manager (AEM Sites) · responsive design
+
+**Backend & APIs**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,flask,postman&perline=8)
+
+REST · OpenAPI/Swagger · JWT · RBAC · Firebase Auth
+
+**Data & ML**
+
+scikit-learn · Pandas · NumPy · SMOTE · MLflow · OpenCV · feature engineering · model evaluation · RAG/LLM integration
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=8)
+
+schema design · data modeling · query optimization
+
+**Cloud, DevOps & Testing**
+
+![Tools](https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,github,jira,vscode&perline=8)
+
+AWS Lambda · API Gateway · CloudFront · IAM · CloudWatch · PyTest · embedded systems · hardware-in-the-loop
 
 ---
 
@@ -34,8 +55,9 @@ MS Information Systems student at Northeastern University. I build across full-s
 - Owned the admin and doctor-facing product surfaces on a 4-person team, including the patient-doctor connection workflow and role-based access control
 - Integrated a **RAG-powered chatbot** that answers health questions using context pulled from the user's own uploaded reports, backed by a Python/Flask microservice with sentence-embedding retrieval
 - Implemented secure auth (JWT + bcrypt + Google OAuth) and documented the full API with Swagger
+- Containerized with Docker and shipped through GitHub Actions CI/CD with PyTest unit and integration tests
 
-`React` `TypeScript` `Node.js` `MongoDB` `RAG` `Flask`
+`React` `TypeScript` `Node.js` `MongoDB` `RAG` `Flask` `Docker`
 
 ---
 
@@ -62,20 +84,35 @@ MS Information Systems student at Northeastern University. I build across full-s
 
 ---
 
+### [Transit-Shaped Signal Detection — Exoplanet Candidate Screening](https://github.com/berry4-tech/Machine-Learning-Technique-to-Identify-Transit-Shaped-Signals)
+> Python | scikit-learn | Jupyter | NASA Kepler & K2
+
+- Built a classifier separating genuine exoplanet transit signals from false positives in NASA Kepler and K2 light-curve data
+- Automated a screening step that previously required manual astronomer review of every candidate
+
+`Python` `scikit-learn` `Jupyter` `Signal Processing`
+
+---
+
 ## Patents
 
-Co-inventor on two patents filed during my time at Trispace Technologies:
-- **GPU cost/power optimization** for hardware efficiency (#537663)
-- **BOM cost/power optimization** in drone systems (#582124)
+Co-inventor on two **granted** Indian patents, both from modelling bill-of-material cost against power performance in MATLAB and C++:
+
+- **#537663** (Granted May 2024) — Optimizing Bill of Material Cost and Power Performance of a GPU Core
+- **#582124** (Granted Feb 2026) — Optimizing Bill of Material Cost and Power Performance for Drones
+
+---
 
 ## What I'm Working On
 
 Building an AI-powered caregiver/medication assistant as a semester-long team project in my "Building AI Apps" course — end-to-end from problem definition and system prompt design through RAG, tool orchestration, security testing, and deployment.
 
+---
+
 ## Let's Connect
 
-Open to Software Engineer, Product Manager roles and conversations about AI products, data-informed decisions, or anything above.
+Open to Software Engineer and Product Manager roles, and conversations about AI products, data-informed decisions, or anything above.
 
-[LinkedIn](https://www.linkedin.com/in/sriya-kv/)
+🌐 [Portfolio](https://sriya-v-kamarsu.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/sriya-kv/) · ✉️ kamarsu.v@northeastern.edu
 
 ![Profile views](https://komarev.com/ghpvc/?username=berry4-tech&label=Profile%20views&color=6f42c1&style=flat)
