@@ -134,4 +134,4 @@ Seeking Spring 2027 co-ops in software engineering, AI, and product management.
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=berry4-tech&label=Profile%20views&color=6f42c1&style=flat)
+![Profile views](https://hits.sh/github.com/berry4-tech.svg?label=Profile%20views&color=6f42c1)
