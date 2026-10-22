@@ -1,4 +1,4 @@
-### Hi, I'm Sriya 👋
+### Hi, I'm Sriya 👩‍🎓
 
 MS Computer Software Engineering student at Northeastern University (Boston). I build AI agents, full-stack web apps, and machine learning pipelines. Before grad school, I grew from R&D intern to Chief Executive Officer (CEO) at a GPU and drone hardware startup, and I'm a co-inventor on 2 granted patents in GPU and drone cost and power optimization.
 
